@@ -1,4 +1,4 @@
-# SNR_FRB_Datasets_reproduction
+# SNR_FRB
 
 This repository contains the processed datasets and figure-reproduction materials associated with the paper:
 
